@@ -1,0 +1,37 @@
+html, body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-text {
+    padding-right: 20px;
+}
+
+.list-group {
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.mapSpan {
+    float: right;
+    padding-top: 9px;
+}
+
+#map {
+    height: 80%;
+}
+
+#back {
+    float: right;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+#streets h2 {
+    display: inline-block;
+}
